@@ -1,0 +1,22 @@
+In sliding window there are 2 patterns:
+1. we need to find the longest/shortest lenght of subarray satisfying some condition.
+2. we need to find the count of longest/shortest subarray whose sum or product equals k;
+
+
+_________________________________________________________________________________________________________
+APPROACHES:
+BRUTE FORCE--> GENERATE ALL THE SUBARRAY;
+OPTIMAL USING SLIDING WINDOW;
+
+
+
++++++++++++      PREFIX SUM        +++++++++++++++++++++
+IN CASES OF LONGEST SUBARRAY WITH SUM K WE CAN USE HASHING;
+
+
+PREFIX SUM :   sum of all elements from first point to its preceding element;
+store x-k sum to find k;
+
+store sum,index in hashmap and then if(sum-k)  exist the current indx - hm.value;
+[]
+
