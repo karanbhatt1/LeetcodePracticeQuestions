@@ -52,7 +52,7 @@ public class CountOccurenceOfAnagram {
     }
 
     public static void main(String[] args) {
-        System.out.println(search("tty","git "));
+        System.out.println(search("tty","git git "));
 
     }
 }
