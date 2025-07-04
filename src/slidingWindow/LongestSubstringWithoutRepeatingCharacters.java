@@ -29,7 +29,7 @@ public class LongestSubstringWithoutRepeatingCharacters {
                     charset.remove(s.charAt(left));
                     left++;
                 }
-                charset.add(ch);
+                charset.add(ch); // adding the right character in set.
             }
             right++;
         }
