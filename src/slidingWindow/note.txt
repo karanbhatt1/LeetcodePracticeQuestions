@@ -1,5 +1,5 @@
 In sliding window there are 2 patterns:
-1. we need to find the longest/shortest lenght of subarray satisfying some condition.
+1. we need to find the longest/shortest length of subarray satisfying some condition.
 2. we need to find the count of longest/shortest subarray whose sum or product equals k;
 
 
