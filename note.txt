@@ -1,0 +1,7 @@
+1. Arrays and string
+1. two sum
+2. three sum
+3. Longest Substring Without Repeating Characters
+4. Rotate Box --> Transpose then reverse each row.
+5. Longest Common Prefix --> String , Trie. Prefix Tree.
+6. Longest Palindromic Substring --> String.
